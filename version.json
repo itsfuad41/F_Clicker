@@ -1,7 +1,5 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/itsfuad41/F_Clicker/releases",
-  "changelog": "Maintenance",
-  "enabled": false,
-  "message": "F_Clicker is temporarily unavailable."
+  "version": "1.0.5",
+  "download_url": "https://github.com/itsfuad41/F_Clicker",
+  "changelog": "Prevents duplicate app windows and activates the existing F_Clicker window when launched again."
 }
